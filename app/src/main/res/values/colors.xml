@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="themecolor">#ef2780</color>
+    <color name="transparent">#66FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_gray">#757577</color>
+    <color name="black">#484C5E</color>
+    <color name="dark_black">#000000</color>
+    <color name="red">#F32169</color>
+    <color name="logo_red">#EC008C</color>
+    <color name="light_blue">#47E2FE</color>
+    <color name="dark_blue">#08a6b9</color>
+    <color name="white_transparent">#00ffffff</color>
+    <color name="blue_transparent">#8047E2FE</color>
+    <color name="dark_pink">#E61E7A</color>
+    <color name="transparent_menu">#B3FFFFFF</color>
+    <color name="black_transparent">#80000000</color>
+    <color name="gray">#c5c5c5</color>
+    <color name="dimmer_color">#55000000</color>
+    <color name="light_white_gray">#B4B4B4</color>
+    <color name="etcolor">#FC0070</color>
+    <color name="light_gray">#F6F6F6</color>
+    <color name="green">#00B337</color>
+    <color name="light_green">#ADDFAD</color>
+    <color name="light_white">#E6E6E6</color>
+    <color name="dash_board_black">#323B48</color>
+    <color name="dash_board_light_white">#E4E4E4</color>
+    <color name="create_play">#9da2a7</color>
+    <color name="edit_row">#f6f4f4</color>
+    <color name="tab_row">#E4E4E4</color>
+
+    <color name="background_color">#009688</color>
+    <color name="white_greyish">#EEEEEE</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shap_white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/background_one"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/hollywood"
+        android:scaleType="centerCrop"/>
+
+    <ImageView
+        android:id="@+id/background_two"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/hollywood"
+        android:scaleType="centerCrop"/>
+
+    </RelativeLayout>
+
+
+    <ImageView
+        android:id="@+id/background"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        android:background="@drawable/radialbg"
+        android:layout_marginTop="240dp"
+        />
+
+    <ImageView
+        android:id="@+id/background1"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        android:background="@drawable/radialbg"
+        android:layout_marginTop="240dp"
+        />
+
+    <ImageView
+        android:id="@+id/background_three"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/movie"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="240dp"
+        android:layout_marginLeft="125dp"/>
+
+
+
+    <Button
+        android:id="@+id/imageButton5"
+        android:layout_width="100dp"
+        android:layout_marginTop="390dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="130dp"
+        android:text="Book Your Tickets"
+        android:textColor="#ffff"
+        android:background="@drawable/splash_button" />
+
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="440dp"
+        android:layout_marginLeft="130dp"
+        android:src="@drawable/mousehand" />
+
+</FrameLayout>
